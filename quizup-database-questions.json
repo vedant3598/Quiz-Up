@@ -1,0 +1,132 @@
+{
+	"Animals" : {
+    	"1": {
+		"Answer" : "Red",
+    		"Option1" : "Red",
+    		"Option2" : "Green",
+    		"Option3" : "Blue",
+    		"Option4" : "Yellow",
+    		"Question" : "What colour are axolotls?"
+  	     }, 
+    	"2": {
+    		"Answer" : "Yellow",
+    		"Option1" : "Green",
+    		"Option2" : "Blue",
+    		"Option3" : "Yellow",
+    		"Option4" : "Red",
+    		"Question" : "Which of the following colours is one of the two that bees have?"
+	     }
+	},
+	"Sports": {
+	"1" : {
+    		"Answer" : "13",
+    		"Option1" : "18",
+    		"Option2" : "21",
+    		"Option3" : "13",
+    		"Option4" : "7",
+    		"Question" : "How many Stanley Cups have the Toronto Maple Leafs won?"
+  	      }, 
+	"2":  {
+    		"Answer" : "18",
+    		"Option1" : "17",
+    		"Option2" : "91",
+    		"Option3" : "0",
+    		"Option4" : "18",
+    		"Question" : "What number does Virat Kohli wear?"
+	     }
+	},
+	"History": {
+	"1" : {
+    		"Answer" : "1947",
+    		"Option1" : "1946",
+    		"Option2" : "1947",
+    		"Option3" : "1948",
+    		"Option4" : "1990",
+    		"Question" : "What year did India gain its independence?"
+  	      }, 
+	"2":  {
+    		"Answer" : "1946",
+    		"Option1" : "1917",
+    		"Option2" : "1991",
+    		"Option3" : "1946",
+    		"Option4" : "1918",
+    		"Question" : "What year was basketball invented?"
+	     }
+	},
+	"Math": {
+	"1" : {
+    		"Answer" : "5",
+    		"Option1" : "4",
+    		"Option2" : "2",
+    		"Option3" : "5",
+    		"Option4" : "8",
+    		"Question" : "What is 4+(4-3)?"
+  	      }, 
+	"2":  {
+    		"Answer" : "81",
+    		"Option1" : "81",
+    		"Option2" : "16",
+    		"Option3" : "4",
+    		"Option4" : "121",
+    		"Question" : "What is 9 to power of 9?"
+	     }
+	},
+	"Science": {
+	"1" : {
+    		"Answer" : "Hydrogen Sulphide",
+    		"Option1" : "Hydrogen Sulphate",
+    		"Option2" : "Carbon",
+    		"Option3" : "Oxygen",
+    		"Option4" : "Hydrogen Sulphide",
+    		"Question" : "Brass gets discoloured in air because of the presence of which of the following gases in air?"
+  	      }, 
+	"2":  {
+    		"Answer" : "Mg",
+    		"Option1" : "Mg",
+    		"Option2" : "Ca",
+    		"Option3" : "C",
+    		"Option4" : "Fe",
+    		"Question" : "Chlorophyll is a naturally occurring chelate compound in which central metal is"
+	     }
+	},
+	"Games": {
+	"1" : {
+    		"Answer" : "Winky",
+    		"Option1" : "Clyde",
+    		"Option2" : "Inky",
+    		"Option3" : "Winky",
+    		"Option4" : "Blinky",
+    		"Question" : "Which of the following is NOT a ghost from the original Pac-Man?"
+  	      }, 
+	"2":  {
+    		"Answer" : "Jumpman",
+    		"Option1" : "Plumberman",
+    		"Option2" : "Mario",
+    		"Option3" : "Luigi",
+    		"Option4" : "Jumpman",
+    		"Question" : "Under what name did Mario debut in 1981's 'Donkey Kong'?"
+	     }
+	},
+	"Technology": {
+	"1" : {
+    		"Answer" : "16 bits",
+    		"Option1" : "16 bits",
+    		"Option2" : "4 bits",
+    		"Option3" : "1024 bits",
+    		"Option4" : "10 bits",
+    		"Question" : "Computer word size is a multiple of"
+  	      }, 
+	"2":  {
+    		"Answer" : "Public domain software",
+    		"Option1" : "Public domain software",
+    		"Option2" : "Spreadsheets",
+    		"Option3" : "Shareware",
+    		"Option4" : "A & C",
+    		"Question" : "Which of the following software is free?"
+	     }
+	}	
+}
+
+
+
+
